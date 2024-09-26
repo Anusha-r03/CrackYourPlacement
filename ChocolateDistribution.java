@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-class Solution {
+class ChocolateDistribution {
     public long findMinDiff(ArrayList<Integer> a, int n, int m) {
         // If the list is empty or m is 0, return 0
         if (a.isEmpty() || m == 0) {
